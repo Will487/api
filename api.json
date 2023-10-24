@@ -1,0 +1,25 @@
+{
+    "produtos": [
+      {
+        "tipo": "CPU (Unidade de Processamento Central)",
+        "nome": "Processador Intel Core i9-10900K",
+        "foto": "https://m.media-amazon.com/images/I/61aMmen0cFL._AC_UF350,350_QL80_.jpg",
+        "descricao": "O Intel Core i9-10900K é um processador de alta performance da série Core da Intel. Ele possui 10 núcleos e 20 threads, o que o torna ideal para tarefas intensivas de computação, como jogos e edição de vídeo. Sua frequência base é de 3.7 GHz, mas pode atingir até 5.3 GHz no modo Turbo Boost.",
+        "atributo": "TDP (Thermal Design Power) de 125 watts, indicando a quantidade de energia que o processador pode dissipar como calor durante o funcionamento."
+      },
+      {
+        "tipo": "GPU (Unidade de Processamento Gráfico)",
+        "nome": "Placa de Vídeo NVIDIA GeForce RTX 3080",
+        "foto": "https://m.media-amazon.com/images/I/61juKdIql1L.jpg",
+        "descricao": "A placa de vídeo NVIDIA GeForce RTX 3080 é uma das mais potentes disponíveis no mercado. Ela é projetada para jogos de alta qualidade e tarefas de renderização gráfica. Com 10 GB de memória GDDR6X, suporte a Ray Tracing em tempo real e DLSS (Deep Learning Super Sampling), oferece gráficos impressionantes e desempenho excepcional.",
+        "atributo": "Número de núcleos CUDA - 8704, que afeta diretamente o desempenho de processamento gráfico."
+      },
+      {
+        "tipo": "RAM (Memória de Acesso Aleatório)",
+        "nome": "Memória RAM Corsair Vengeance LPX DDR4 32GB",
+        "foto": "https://images.kabum.com.br/produtos/fotos/110814/memoria-corsair-vengeance-lpx-32gb-2x16gb-2400mhz-ddr4-c16-black-cmk32gx4m2a2400c16_1589918161_original.jpg",
+        "descricao": "Este módulo de memória RAM Corsair Vengeance LPX é projetado para oferecer desempenho de alta velocidade e confiabilidade. Com 32GB de capacidade, é ideal para multitarefas intensivas, edição de vídeo e jogos. Possui uma frequência de 3200 MHz para transferência de dados rápida e latência baixa.",
+        "atributo": "Latência CAS de 16, que indica o tempo necessário para a memória responder a uma solicitação de leitura. Quanto menor a latência CAS, melhor o desempenho."
+      }
+    ]
+  }
